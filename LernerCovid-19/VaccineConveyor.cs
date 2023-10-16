@@ -1,6 +1,4 @@
-﻿namespace LernerCovid_19;
-
-public sealed class VaccineConveyor
+﻿public sealed class VaccineConveyor
 {
     public int _n { get; set; }
     public int _entranceA { get; set; }
